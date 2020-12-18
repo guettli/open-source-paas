@@ -27,7 +27,10 @@ Dokku has three ways to operate: herokuish buildscripts, Dockerfiles, Docker-Ima
 
 First I though "herokuish buildscripts" are great, but maybe this mixes two things which don't belong together: Creating a container and running a container.
 
+
 ![paas-star-history](paas-star-history.png)
+
+Source: [star-history](https://star-history.t9t.io/#caprover/caprover&flynn/flynn&tsuru/tsuru&dokku/dokku)
 
 ## CloudFoundry
 
