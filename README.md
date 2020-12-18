@@ -40,6 +40,8 @@ Has a web-GUI.
 
 Written in Typescript.
 
+The docs advertise DigitalOcean, but CapRover runs on Hetzner or any other VPS.
+
 ## Star-History
 
 ![paas-star-history](paas-star-history.png)
