@@ -54,7 +54,7 @@ Nice feature [Rollback to previous Docker Image](https://caprover.com/docs/deplo
 
 The docs advertise DigitalOcean, but CapRover runs on Hetzner or any other VPS.
 
-Multi-Host: Yes (todo details)
+Multi-Host: Yes (Docker Swarm)
 
 ## Tsuru
 
