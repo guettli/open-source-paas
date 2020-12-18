@@ -26,7 +26,7 @@ It is mostly written in Shell. I don't trust Shellscripts, but the author is mai
 
 Dokku has three ways to operate: herokuish buildscripts, Dockerfiles, Docker-Images.
 
-First I though "herokuish buildscripts" are great, but maybe this mixes two things which don't belong together: Creating a container and running a container.
+First I thought "herokuish buildscripts" are great, but maybe this mixes two things which don't belong together: Creating a container and running a container.
 
 Multi-Host: No
 
