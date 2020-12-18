@@ -64,6 +64,9 @@ Written in go. Uses Docker-Swarm.
 
 Multi-Host: Yes
 
+# kel
+[kelproject](https://github.com/kelproject) development has stalled.
+
 # Star-History
 
 ![paas-star-history](paas-star-history.png)
