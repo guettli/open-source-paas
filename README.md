@@ -38,12 +38,6 @@ That's cool.
 
 This was cool some years ago. Now there are 430 open issues, and the development has stalled.
 
-## CloudFoundry
-
-Looks too heavy and too enterprise-like. The tutorial talks about billions of market value, but not how to install it on my VPS.
-
-Multi-Host: Yes
-
 ## CapRover
 
 [CapRover](https://github.com/caprover/caprover)
