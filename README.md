@@ -41,6 +41,10 @@ Has a web-GUI.
 
 Written in Typescript.
 
+Nice docs.
+
+Nice feature [Rollback to previous Docker Image](https://caprover.com/docs/deployment-methods.html#one-click-rollback)
+
 The docs advertise DigitalOcean, but CapRover runs on Hetzner or any other VPS.
 
 ## Star-History
