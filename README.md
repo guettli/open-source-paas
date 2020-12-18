@@ -28,6 +28,9 @@ Dokku has three ways to operate: herokuish buildscripts, Dockerfiles, Docker-Ima
 
 First I though "herokuish buildscripts" are great, but maybe this mixes two things which don't belong together: Creating a container and running a container.
 
+# Flynn
+
+This was cool some years ago. Now there are 430 open issues, and the development has stalled.
 
 ## CloudFoundry
 
