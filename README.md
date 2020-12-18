@@ -30,6 +30,10 @@ First I though "herokuish buildscripts" are great, but maybe this mixes two thin
 
 Multi-Host: No
 
+With Dokku you can "link" an App to a database. This automatically creates a matching DATABASE_URL. 
+See [Linking backing services to applications](http://dokku.viewdocs.io/dokku/deployment/application-deployment/#linking-backing-services-to-applications)
+That's cool.
+
 ## Flynn
 
 This was cool some years ago. Now there are 430 open issues, and the development has stalled.
