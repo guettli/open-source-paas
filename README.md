@@ -12,8 +12,9 @@ PaaS are usualy using some kind of containers to execute the applications.
 
 ## Required Features
 
-* As a software developer I want to deploy a Django based app on my own VPS.
+* As a software developer I want to deploy a several Django based app on one VPS.
 * I don't want to run a big infrastructure, I just have one VPS. Kubernetes based solutions don't make sense for me at the moment.
+* I want http. Letsencryptit support is needed.
 * Documentation. The PaaS should be documented. I don't want to be the first who tries to get a Django based solution running on it.
 
 ## Dokku
