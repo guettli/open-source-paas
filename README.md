@@ -28,3 +28,7 @@ Dokku has three ways to operate: herokuish buildscripts, Dockerfiles, Docker-Ima
 First I though "herokuish buildscripts" are great, but maybe this mixes two things which don't belong together: Creating a container and running a container.
 
 
+## CloudFoundry
+
+Looks too heavy and too enterprise-like. The tutorial talks about billions of market value, but not how to install it on my VPS.
+
