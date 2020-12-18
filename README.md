@@ -28,11 +28,21 @@ Dokku has three ways to operate: herokuish buildscripts, Dockerfiles, Docker-Ima
 First I though "herokuish buildscripts" are great, but maybe this mixes two things which don't belong together: Creating a container and running a container.
 
 
-![paas-star-history](paas-star-history.png)
-
-Source: [star-history](https://star-history.t9t.io/#caprover/caprover&flynn/flynn&tsuru/tsuru&dokku/dokku)
-
 ## CloudFoundry
 
 Looks too heavy and too enterprise-like. The tutorial talks about billions of market value, but not how to install it on my VPS.
+
+## CapRover
+
+[CapRover](https://github.com/caprover/caprover)
+
+Has a web-GUI.
+
+Written in Typescript.
+
+## Star-History
+
+![paas-star-history](paas-star-history.png)
+
+Source: [star-history](https://star-history.t9t.io/#caprover/caprover&flynn/flynn&tsuru/tsuru&dokku/dokku)
 
