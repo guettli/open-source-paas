@@ -73,6 +73,10 @@ At least at the moment I think solutions based on Kubernetes are too big for me.
 * OpenShift
 * Cloud Foundry
 
+# Or "do it yourself"
+
+Configure the VPS via ssh+vi or Ansible.
+
 # Star-History
 
 ![paas-star-history](paas-star-history.png)
