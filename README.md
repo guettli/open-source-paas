@@ -65,6 +65,14 @@ Multi-Host: Yes
 # kel
 [kelproject](https://github.com/kelproject) development has stalled.
 
+# Too big
+
+At least at the moment I think solutions based on Kubernetes are too big for me. I have only one VPS, I don't want a run a cloud.
+
+* Rancher (RedHat)
+* OpenShift
+* Cloud Foundry
+
 # Star-History
 
 ![paas-star-history](paas-star-history.png)
