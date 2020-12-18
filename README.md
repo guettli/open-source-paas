@@ -28,13 +28,17 @@ Dokku has three ways to operate: herokuish buildscripts, Dockerfiles, Docker-Ima
 
 First I though "herokuish buildscripts" are great, but maybe this mixes two things which don't belong together: Creating a container and running a container.
 
-# Flynn
+Multi-Host: No
+
+## Flynn
 
 This was cool some years ago. Now there are 430 open issues, and the development has stalled.
 
 ## CloudFoundry
 
 Looks too heavy and too enterprise-like. The tutorial talks about billions of market value, but not how to install it on my VPS.
+
+Multi-Host: Yes
 
 ## CapRover
 
@@ -50,13 +54,17 @@ Nice feature [Rollback to previous Docker Image](https://caprover.com/docs/deplo
 
 The docs advertise DigitalOcean, but CapRover runs on Hetzner or any other VPS.
 
-# Tsuru
+Multi-Host: Yes (todo details)
+
+## Tsuru
 
 [Tsuru](https://tsuru.io/)
 
-Written in go.
+Written in go. Uses Docker-Swarm.
 
-## Star-History
+Multi-Host: Yes
+
+# Star-History
 
 ![paas-star-history](paas-star-history.png)
 
