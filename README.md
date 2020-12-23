@@ -67,7 +67,7 @@ Multi-Host: Yes
 
 # N Linux User
 
-* nginx as https endpoint and reverseproxy
+* nginx as https endpoint and reverse proxy
 * Per system one Linux user and an http server started via systemd. See [gunicorn systemd config](https://docs.gunicorn.org/en/stable/deploy.html#systemd)
 * https per wildcard domain: [Certbot wildcard Domain](https://certbot.eff.org/lets-encrypt/ubuntufocal-nginx)
 
