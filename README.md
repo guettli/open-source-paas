@@ -65,20 +65,20 @@ Multi-Host: Yes
 # kel
 [kelproject](https://github.com/kelproject) development has stalled.
 
-# N gunicorn services
+# N Linux User
 
 * nginx as https endpoint and reverseproxy
-* Per system one Linux user and a gunicorn http server, started via systemd. See [gunicorn systemd config](https://docs.gunicorn.org/en/stable/deploy.html#systemd)
+* Per system one Linux user and an http server started via systemd. See [gunicorn systemd config](https://docs.gunicorn.org/en/stable/deploy.html#systemd)
 * https per wildcard domain: [Certbot wildcard Domain](https://certbot.eff.org/lets-encrypt/ubuntufocal-nginx)
 
-
+I would call it "hand-made PaaS".
 
 # Too big
 
 At least at the moment I think solutions based on Kubernetes are too big for me. I have only one VPS, I don't want a run a cloud.
 
-* Rancher (RedHat)
-* OpenShift
+* Rancher (SusE)
+* OpenShift (RedHat)
 * Cloud Foundry
 
 # Star-History
