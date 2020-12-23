@@ -10,6 +10,10 @@ the streamlining effect, which you get from a PaaS solution.
 
 PaaS are usualy using some kind of containers to execute the applications.
 
+# Goal
+
+Run several unrelated applications on one VPS (virtual private server).
+
 ## Required Features
 
 * As a software developer I want to deploy a several Django based app on one VPS.
@@ -71,7 +75,7 @@ Multi-Host: Yes
 * Per system one Linux user and an http server started via systemd. See [gunicorn systemd config](https://docs.gunicorn.org/en/stable/deploy.html#systemd)
 * https per wildcard domain: [Certbot wildcard Domain](https://certbot.eff.org/lets-encrypt/ubuntufocal-nginx)
 
-I would call it "hand-made PaaS".
+I would call it "hand-made PaaS". Depending on the way you do it, it is ssh+vi or configuration management.
 
 # Too big
 
