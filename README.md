@@ -95,3 +95,13 @@ At least at the moment I think solutions based on Kubernetes are too big for me.
 
 Source: [star-history](https://star-history.t9t.io/#caprover/caprover&flynn/flynn&tsuru/tsuru&dokku/dokku)
 
+# Relate
+
+https://www.linux-magazin.de/ausgaben/2018/09/bitparade-7/
+
+# WOL
+
+More like this
+
+[Thomas Working-out-Loud](https://github.com/guettli/wol)
+
