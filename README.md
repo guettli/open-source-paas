@@ -1,6 +1,6 @@
 # Open Source PaaS List
 
-Update 2021: I decided to stick to Linux VPS (virtual private server) with systemd and some Python script to deploy my web applications. No PaaS, no Kubernetes, no Ansible, no Terraform.
+Update 2021: I decided to stick to Linux VPS (virtual private server) with systemd and some Python script to deploy my web applications. No PaaS, no Kubernetes, no Ansible, no Terraform, no AWS, no Heroku.
 
 Platform as a Service simplifies and streamlines deployment.
 
