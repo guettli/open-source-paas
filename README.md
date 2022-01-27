@@ -5,6 +5,10 @@ Update 2020: I think Kubernetes is the future. Kubernetes is no PaaS. But sooner
 
 Update 2021: I decided to stick to Linux VPS (virtual private server) with systemd and some Python script to deploy my web applications. No PaaS, no Kubernetes, no Ansible, no Terraform, no AWS, no Heroku.
 
+---
+Text from 2020
+
+
 Platform as a Service simplifies and streamlines deployment.
 
 Yes, I can use ssh+vi to manage servers. I did this since 1998, but ssh+vi is not 
