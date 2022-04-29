@@ -11,7 +11,7 @@ the streamlining effect, which you get from a PaaS solution.
 I know the basics of Kubernetes. But Kubernetes has too many options. That's ok for me, but I am looking for solution
 which is simpler for the end user. 
 
-Since Kubernetes has won the container-orchestration race, I am looking for a solution based on Kubernets.
+Since Kubernetes has won the container-orchestration race, I am looking for a solution based on Kubernetes.
 
 For completness some non-Kubernetes solutions are listed, too.
 
