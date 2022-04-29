@@ -95,7 +95,7 @@ License: MIT
 
 Container-Orchestration: Kubernetes
 
-Drawback: Maintained by a single person: https://github.com/openfaas/faas/graphs/contributors
+Note: If you look at this statistic, you might think that OpenFaaS is a one-man-show [Github contributors](https://github.com/openfaas/faas/graphs/contributors). But this is not true. This repo that is one small part of a very large project with 40+ repositories. A better overview: https://kenfdev.o6s.io/github-stats-page#/
 
 # Knative
 
