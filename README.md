@@ -87,15 +87,19 @@ License: Mit + ee directory (unsure if usable without ee)
 
 Container-Orchestration: Kubernetes
 
-# Open FaaS
+# OpenFaaS
 
-https://www.openfaas.com/
+Homepage: [https://www.openfaas.com](https://www.openfaas.com)
+GitHub: [https://github.com/openfaas](https://github.com/openfaas)
 
 License: MIT
 
-Container-Orchestration: Kubernetes
+Container-Orchestration: Kubernetes and containerd through [faasd](https://github.com/openfaas/faasd)
 
-Note: If you look at this statistic, you might think that OpenFaaS is a one-man-show [Github contributors](https://github.com/openfaas/faas/graphs/contributors). But this is not true. This repo that is one small part of a very large project with 40+ repositories. A better overview: https://kenfdev.o6s.io/github-stats-page#/
+"OpenFaaS® makes it simple to deploy both functions and existing code to Kubernetes"
+
+* [View contribution statistics from GitHub](https://kenfdev.o6s.io/github-stats-page)
+* [View ADOPTERS file](https://github.com/openfaas/faas/blob/master/ADOPTERS.md)
 
 # Knative
 
@@ -111,8 +115,6 @@ https://flinkwerk.com/
 Container-Orchestration: Kubernetes
 
 License: unsure. In Beta, not released yet
-
-
 
 # WOL
 
