@@ -27,7 +27,7 @@ Make it easy for the end user.
 
 With "end user" being a developer who can create containers, and wants to run them.
 
-## Required Features
+## Wishlist
 
 * As end user I just want to run stateless containers. Integrating stateful services like database and storage should be like plug-and-play.
 * GitOps
