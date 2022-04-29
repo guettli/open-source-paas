@@ -15,7 +15,13 @@ Since Kubernetes has won the container-orchestration race, I am looking for a so
 
 For completness some non-Kubernetes solutions are listed, too.
 
-# Goal
+Up to now this is just brainstorming. I don't know the conrete goal nor the next steps.
+
+Function-as-a-Service solutions are welcome, too.
+
+Please ping me, if you know an open source solution which is not on the list yet.
+
+# Vague Goal
 
 Make it easy for the end user.
 
@@ -38,15 +44,11 @@ is not my use case.
 
 It is mostly written in Shell. I don't trust Shellscripts, but the author is maintaining it with love since several years. Looks stable.
 
-Dokku has three ways to operate: herokuish buildscripts, Dockerfiles, Docker-Images.
-
 First I thought "herokuish buildscripts" are great, but maybe this mixes two things which don't belong together: Creating a container and running a container.
 
 Multi-Host: No
 
-With Dokku you can "link" an App to a database. This automatically creates a matching DATABASE_URL. 
-See [Linking backing services to applications](http://dokku.viewdocs.io/dokku/deployment/application-deployment/#linking-backing-services-to-applications)
-That's cool.
+Container-Orchestration: Kubernetes (but up to now this Sheduler is experimental)
 
 
 ## CapRover
@@ -84,6 +86,24 @@ https://porter.run/
 License: Mit + ee directory (unsure if usable without ee)
 
 Container-Orchestration: Kubernetes
+
+# Open FaaS
+
+https://www.openfaas.com/
+
+License: MIT
+
+Container-Orchestration: Kubernetes
+
+Drawback: Maintained by a single person: https://github.com/openfaas/faas/graphs/contributors
+
+# Knative
+
+Container-Orchestration: Kubernetes
+
+License: Apache-2.0
+
+
 
 
 # WOL
