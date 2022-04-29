@@ -19,7 +19,7 @@ Up to now this is just brainstorming. I don't know the conrete goal nor the next
 
 Function-as-a-Service solutions are welcome, too.
 
-Please ping me, if you know an open source solution which is not on the list yet.
+Please ping me, if you know an open source solution which is not on the list yet or if you just want chat/talk about this topic. Direct messages are welcome.
 
 # Vague Goal
 
