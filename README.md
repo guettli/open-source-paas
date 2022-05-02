@@ -116,6 +116,25 @@ Container-Orchestration: Kubernetes
 
 License: unsure. In Beta, not released yet
 
+# Kubernetes
+
+Most people don't see Kubernetes as a PaaS, since you don't have a web GUI for
+configuring the system.
+
+At least at the moment every PaaS will be some kind of vendor-lockin, even if you
+choose an open source PaaS.
+
+Maybe it is best to embrace the complexity which Kubernetes brings. Compared to running
+several VM based solutions, Kubernetes is not much harder.
+
+Kubernetes has the benefit that the basics are streamlined. 
+
+Containers, Pods, Deployments, Services, Ingresses. These things are well defined.
+
+Compare this managing several virtual machines. There are far too many ways to run
+several VMs. From this perspective Kubernetes is not that complicated.
+
+
 # WOL
 
 [Thomas Working-out-Loud](//github.com/guettli/wol)
