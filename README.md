@@ -1,4 +1,4 @@
-# Open Source PaaS List
+# Open Source PaaS/FaaS List
 
 Platform as a Service simplifies and streamlines deployment.
 
@@ -133,6 +133,10 @@ Containers, Pods, Deployments, Services, Ingresses. These things are well define
 
 Compare this managing several virtual machines. There are far too many ways to run
 several VMs. From this perspective Kubernetes is not that complicated.
+
+# OpenFunction
+
+https://openfunction.dev/
 
 
 # WOL
