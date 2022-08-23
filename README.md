@@ -69,6 +69,12 @@ Multi-Host: Yes
 
 Container-Orchestration: Docker-Swarm
 
+## Coolify
+
+[Coolify](https://github.com/coollabsio/coolify)
+
+You can add whatever you like for description, it is a caprover alternative / similar to a self hosted heroku/dokku with a gui. (Updates very often)
+
 ## Tsuru
 
 [Tsuru](https://tsuru.io/)
