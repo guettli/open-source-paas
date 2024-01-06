@@ -75,6 +75,12 @@ Container-Orchestration: Docker-Swarm
 
 You can add whatever you like for description, it is a caprover alternative / similar to a self hosted heroku/dokku with a gui. (Updates very often)
 
+## LocalCloud
+
+[LocalCloud](https://github.com/localcloud-dev/localcloud-agent)
+
+Multi-cloud PaaS with autoscaling, CI/CD, TLS certificates, VPN, and localhost tunnels.
+
 ## Tsuru
 
 [Tsuru](https://tsuru.io/)
