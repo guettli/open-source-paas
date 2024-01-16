@@ -1,5 +1,13 @@
 # Open Source PaaS/FaaS List
 
+Attention: This text is outdated. I work with Kubernetes since one year and like it. Overall it is not that complicated.
+
+The docs at [kubernetes.io](//kubernetes.io) are great.
+
+BTW: The world does not need a wrapper around Kubernetes to simplify it. Just use a managed Kubernetes solution if you don't want to do that yourself.
+
+---
+
 Platform as a Service simplifies and streamlines deployment.
 
 Yes, I can use ssh+vi to manage servers. I did this since 1998, but ssh+vi is not 
@@ -19,7 +27,6 @@ Up to now this is just brainstorming. I don't know the conrete goal nor the next
 
 Function-as-a-Service solutions are welcome, too.
 
-Please ping me, if you know an open source solution which is not on the list yet or if you just want chat/talk about this topic. Direct messages are welcome.
 
 # Vague Goal
 
